@@ -1,0 +1,3 @@
+/home/bluclaure/projects/RPG/CMakeFiles/rebuild_cache.dir
+/home/bluclaure/projects/RPG/CMakeFiles/main.dir
+/home/bluclaure/projects/RPG/CMakeFiles/edit_cache.dir

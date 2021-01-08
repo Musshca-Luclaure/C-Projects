@@ -1,0 +1,3 @@
+/home/bluclaure/projects/mittwochCode/CMakeFiles/rebuild_cache.dir
+/home/bluclaure/projects/mittwochCode/CMakeFiles/main.dir
+/home/bluclaure/projects/mittwochCode/CMakeFiles/edit_cache.dir

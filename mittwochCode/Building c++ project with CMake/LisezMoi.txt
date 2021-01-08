@@ -1,0 +1,26 @@
+ Etape 1 (cr�er les sous-r�pertoire n�cessaires)
+=========
+
+  Les commandes communes � toutes les plateformes sont list�es dans le fichier
+CMakeLists.txt. L'adaptation � votre plateforme s'effectue par le biais du 
+fichier CMakeCache.txt.
+
+  Dans le sous-r�pertoire Squelette/, tapez la commande:
+     cmake -G"Unix Makefiles"
+qui a pour effet de g�n�rer les sous-r�pertoires et fichiers suivants :
+   bin/
+   CMakeFiles/
+   Makefile
+   CMakeCache.txt
+   cmake_install.cmake
+
+  Le sous-r�pertoire bin/ est destin� � accueillir l'ex�cutable tandis que
+le sous-r�pertoire CMakeFiles/ accueillera les fichiers objets produits par le 
+compilateur.
+
+
+=========
+ Etape 2 (g�n�ration des executables).
+=========
+
+  Dans le sous-repertoire Squelette, tapez simplement: make.

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bluclaure/projects/Fraction/src/Fraction.cpp
+iostream
+-
+Fraction.hpp
+/home/bluclaure/projects/Fraction/src/Fraction.hpp
+
+/home/bluclaure/projects/Fraction/src/main.cpp
+iostream
+-
+cstdlib
+-
+cmath
+-
+Fraction.hpp
+/home/bluclaure/projects/Fraction/src/Fraction.hpp
+
+src/include/Fraction.hpp
+string
+-
+iostream
+-
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bluclaure/projects/Garrage/src/Garrage.cpp
+string
+-
+iostream
+-
+Garrage.h
+/home/bluclaure/projects/Garrage/src/Garrage.h
+
+/home/bluclaure/projects/Garrage/src/main.cpp
+iostream
+-
+string
+-
+vector
+-
+Garrage.h
+/home/bluclaure/projects/Garrage/src/Garrage.h
+
+src/include/Garrage.h
+string
+-
+

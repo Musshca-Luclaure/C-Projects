@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bluclaure/projects/mittwochCode/src/busReservation.cpp
+iostream
+-
+busReservation.h
+/home/bluclaure/projects/mittwochCode/src/busReservation.h
+string.h
+-
+
+/home/bluclaure/projects/mittwochCode/src/main.cpp
+iostream
+-
+busReservation.h
+/home/bluclaure/projects/mittwochCode/src/busReservation.h
+
+src/include/busReservation.h
+string
+-
+iostream
+-
+cstdio
+-
+cstdlib
+-
+
